@@ -1,4 +1,4 @@
-# VBA-challenge-WIP
+# VBA-challenge
 sources:
 
 the code used in lines 9-10,15, 38, and 61-67 of the VBS script was worked on in a study group together with the help of Steve Bennett and his Week 2 - Class 3 - Student Census code examples as a building block for my loop methods
